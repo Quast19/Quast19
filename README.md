@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Watchwhat](https://github.com/Quast19/Watchwhat)
 
-- 🌱 I’m currently learning **Making Rest API as well as advanced Data structures and Algorithms to become candidate master.**
+- 🌱 I’m currently learning ** to make Rest API as well as advanced Data structures and Algorithms to become candidate master on codeforces.**
 
-- 👯 I’m looking to collaborate on **Django project**
+- 👯 I’m looking to collaborate on **Django project and Competitive Programming**
 
-- 🤝 I’m looking for help with **Master Django and Database creation.**
+- 🤝 I’m looking for help with **mastering backend development as well as getting to candidate master.**
 
 - 💬 Ask me about **Competitive Programming, Django, Django Rest Framework, Postgres, Discrete Maths, Computer Science.**
 
