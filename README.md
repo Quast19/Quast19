@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shriganesh Bhide</h1>
-<h3 align="center">A passionate Competitive Programmer and a Backend engineer using Django+ postgres + postman tech-stack</h3>
+<h3 align="center">A passionate Competitive Programmer and a software engineer, currently learning Svelte Kit, good at backend with Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quast19&label=Profile%20views&color=0e75b6&style=flat" alt="quast19" /> </p>
 
