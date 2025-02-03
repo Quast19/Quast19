@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quast19&label=Profile%20views&color=0e75b6&style=flat" alt="quast19" /> </p>
 
-- 🔭 I’m currently working on [Watchwhat](https://github.com/Quast19/Watchwhat)
+- 🔭 I’m currently working on [Flex- One website to watch all your competitive programming accolades.]((https://github.com/Quast19/Flex))
 
-- 🌱 I’m currently learning ** to make Rest API as well as advanced Data structures and Algorithms to become candidate master on codeforces.**
+- 🌱 I’m currently learning ** CRUD, Statemanagement, use of Shad CN, Auth, Routing using svelte and Svelte Kit, **
 
-- 👯 I’m looking to collaborate on **Django project and Competitive Programming**
+- 👯 I’m looking to collaborate on **Svelte Kit Projects, Competitive programming**
 
-- 🤝 I’m looking for help with **mastering backend development as well as getting to candidate master.**
+- 🤝 I’m looking for help with **getting to candidate master.**
 
-- 💬 Ask me about **Competitive Programming, Django, Django Rest Framework, Postgres, Discrete Maths, Computer Science.**
+- 💬 Ask me about **Competitive Programming, Django, Django Rest Framework, Postgres, Discrete Maths, Computer Science, frontend dev, state management.**
 
-- 📫 How to reach me **shribhide28@gmail.com**
+- 📫 How to reach me **shribhide28@gmail.com, Shriganesh2019@iiitkottayam.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_XDusutY2Rew3VhijAJX0x9hoj53zySr/view?usp=sharing](https://drive.google.com/file/d/1_XDusutY2Rew3VhijAJX0x9hoj53zySr/view?usp=sharing)
 
