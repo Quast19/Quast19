@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shribhide28@gmail.com, Shriganesh2019@iiitkottayam.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_XDusutY2Rew3VhijAJX0x9hoj53zySr/view?usp=sharing](https://drive.google.com/file/d/1_XDusutY2Rew3VhijAJX0x9hoj53zySr/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1_XDusutY2Rew3VhijAJX0x9hoj53zySr/view?usp=sharing](https://drive.google.com/file/d/1h1awcToc9Z8s60o-OCew8VXep9U93dXI/view?usp=sharing))
 
 - ⚡ Fun fact **It's gets easier.**
 
