@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Flex- One website to watch all your competitive programming accolades.]((https://github.com/Quast19/Flex))
 
-- 🌱 I’m currently learning ** CRUD, Statemanagement, use of Shad CN, Auth, Routing using svelte and Svelte Kit, **
+- 🌱 I’m currently learning Svelte Kit, Svelte JS
 
-- 👯 I’m looking to collaborate on **Svelte Kit Projects, Competitive programming**
+- 👯 I’m looking to collaborate on Vue JS, Next JS, React JS, Nuxt JS.
 
 - 🤝 I’m looking for help with **getting to candidate master.**
 
