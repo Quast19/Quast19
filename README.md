@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **getting to candidate master.**
 
-- 💬 Ask me about **Competitive Programming, Django, Django Rest Framework, Postgres, Discrete Maths, Computer Science, frontend dev, state management.**
+- 💬 Ask me about **Competitive Programming,  Discrete Maths, Django, Django Rest Framework, Postgres, Computer Science, frontend dev, state management.**
 
 - 📫 How to reach me **shribhide28@gmail.com, Shriganesh2019@iiitkottayam.ac.in**
 
